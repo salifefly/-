@@ -1,0 +1,34 @@
+/* components/title/title.wxss */
+/* @import "../../icons/css/iconfont.wxss"; */
+.title{
+    display: flex;
+    align-items: center;
+    padding: 10rpx;
+    background-color: aliceblue;
+}
+
+.logo{
+    flex: 7;
+}
+.search{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.user{
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.download{
+    flex: 3;
+    font-size: 30rpx;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: pink;
+    border-radius: 10rpx;
+    padding: 10rpx;
+}

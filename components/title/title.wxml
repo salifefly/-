@@ -1,0 +1,18 @@
+<view class="title">
+    <!-- logo -->
+    <navigator class="logo">
+        <image class="logo_img" style="width:140rpx;height:60rpx;" src="../../icons/image/BILIBILI_LOGO.png"></image>
+    </navigator>
+    <!-- serch -->
+    <view class="search">
+         <image class="search_img" style="width:60rpx;height:44rpx;" src="../../icons/image/find.png"></image>
+    </view>
+    <!-- user -->
+    <view class="user">
+         <image class="user_img" style="width:54rpx;height:60rpx;" src="../../icons/image/bilibili-fill.png"></image>
+    </view>
+    <!-- download -->
+    <view class="download">
+        下载App
+    </view>
+</view>
